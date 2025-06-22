@@ -1,0 +1,7 @@
+In our application we can use linear search if the number of products is quite less but it will
+still take more time than binary search therefore we must opt for
+binary search given that the array of products is sorted.
+
+Time complexities:
+Linear Search: O(n)
+Binary Search: O(log n)

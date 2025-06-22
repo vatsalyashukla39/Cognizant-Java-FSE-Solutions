@@ -1,0 +1,2 @@
+Time Complexity of this recursive function is O(n) where n is the number of years.
+The code's performance can be optimised by using dynamic programming or an iterative solution.
